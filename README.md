@@ -14,10 +14,9 @@ By comparing the outputs of candidate implementations against the reference solu
 
 ## Table of Contents
 1. [Key Features](#key-features)   
-3. [Inputs & Outputs](#inputs--outputs)  
-4. [Directory Structure](#directory-structure)  
-5. [Installation & Build](#installation--build)  
-6. [Usage Example](#usage-example)  
+2. [Inputs & Outputs](#inputs--outputs)  
+3. [Installation & Build](#installation--build)  
+4. [Usage Example](#usage-example)  
 
 
 ---
@@ -94,9 +93,6 @@ By comparing the outputs of candidate implementations against the reference solu
 
 ---
 
-## Directory Structure
-
-Below is a recommended layout; feel free to adapt as you see fit:
 
 
 
